@@ -8,6 +8,6 @@ It includes:
 - Database: MariaDB with initialization script
 - How to Run
 1. Clone the repository:
-   git clone https://github.com/abdallahbadr23/docker-blog-project.git
+   git clone https://github.com/abdallahbadr23/blog-project.git
    
    cd  docker-blog-project
